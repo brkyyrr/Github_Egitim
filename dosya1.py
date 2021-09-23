@@ -1,2 +1,1 @@
-print("Merhaba Ben Dosya 1")
-print("Geri Döndüm")
+print("Merhaba Dünyalar Aleminden Memduh")
