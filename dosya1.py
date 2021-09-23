@@ -1,1 +1,0 @@
-print("Merhaba Dünyalar Aleminden Memduh")
