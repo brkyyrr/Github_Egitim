@@ -1,6 +1,4 @@
-# GITHUB EĞİTİMİ
-
-<img src="https://miro.medium.com/max/1200/1*dDNpLKu_oTLzStsDTnkJ-g.png" width=”480” height=”240”>  
+## GITHUB EĞİTİMİ
 
 Github sayfamı geliştirmek için oluşturduğum eğitim dökümanıdır.
 
